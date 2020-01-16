@@ -1,3 +1,3 @@
 # JSON-betere-uitvoer
 
-Link betere versie: http://25487.hosts2.ma-cloud.nl/verbeterde-versie-JSON/
+Link naar de verbeterde versie (inclusief cameras en eigen classnames): http://25487.hosts2.ma-cloud.nl/verbeterde-versie-JSON/
